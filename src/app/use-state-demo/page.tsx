@@ -12,7 +12,6 @@ function UserStateDemoPage() {
         name: string,
         age: number
     }
-
     const [user, setUser] = useState<User | null>(null)
 
     return (

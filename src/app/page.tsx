@@ -31,6 +31,7 @@ export default function Home() {
       <UserCard name="Alireza" age={18} isOnline={true} />
       <UserCard name="Hossein" age={18} isOnline={false} />
       <UserCard name="Iman" age={23} isOnline={true} />
+      <UserCard name="Hadi" age={23} isOnline={true} />
     </div>
 
 
